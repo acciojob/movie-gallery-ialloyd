@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+img{
+
+	width:50%;
+	
+}
+
+.row{
+
+	display:flex;
+}
